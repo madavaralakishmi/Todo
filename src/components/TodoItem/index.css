@@ -1,0 +1,19 @@
+/* Write your CSS here */
+button {
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  border-radius: 9px;
+  margin: 20px;
+}
+
+p {
+  color: #000000;
+  flex-grow: 1;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
